@@ -1,0 +1,13 @@
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.exe
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.deps.json
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.runtimeconfig.json
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.dll
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\bin\Debug\netcoreapp3.1\Ware_houses.pdb
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.dll
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.pdb
+C:\Users\Ivan\source\repos\Ware_houses\Ware_houses\obj\Debug\netcoreapp3.1\Ware_houses.genruntimeconfig.cache
